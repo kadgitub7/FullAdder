@@ -80,7 +80,7 @@ From the four groups of 1s:
 
 $$S = AB'C_i' + A'B'C_i + ABC_i + A'BC_i'$$
 
-Let \(X = B \oplus C_i\), so \(X' = B \odot C_i\) (XNOR). Then:
+$$Let \(X = B \oplus C_i\), so \(X' = B \odot C_i\) (XNOR). Then:$$
 
 $$S = A \cdot X' + A' \cdot X = A \oplus X$$
 
